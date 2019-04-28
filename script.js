@@ -9,3 +9,5 @@ request.onload = function () {
 }
 
 request.send();
+
+console.log("THING");
